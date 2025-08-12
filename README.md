@@ -1,1 +1,1 @@
-# CodeAlpha_ImageGallery
+# CodeAlpha Image Gallery
